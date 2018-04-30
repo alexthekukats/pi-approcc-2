@@ -1,0 +1,5 @@
+F:\Users\Alex\Documents\C# Progik\pí közelítő 2\pí közelítő 2\bin\Debug\pí közelítő 2.exe
+F:\Users\Alex\Documents\C# Progik\pí közelítő 2\pí közelítő 2\bin\Debug\pí közelítő 2.pdb
+F:\Users\Alex\Documents\C# Progik\pí közelítő 2\pí közelítő 2\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\pí közelítő 2\pí közelítő 2\obj\Debug\pí közelítő 2.exe
+F:\Users\Alex\Documents\C# Progik\pí közelítő 2\pí közelítő 2\obj\Debug\pí közelítő 2.pdb
